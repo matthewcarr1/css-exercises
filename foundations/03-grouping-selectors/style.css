@@ -1,0 +1,11 @@
+.cm1 {
+    background-color: black;
+    color: white;
+}
+.cm2 {
+    background-color: yellow;
+}
+.both {
+    font-size: 28px;
+    font-family: 'helvetica', 'times new roman', 'sans-serif';
+}
