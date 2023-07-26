@@ -39,8 +39,7 @@ img {
 .info {
   display: flex;
   align-items: center;
-  flex-direction: column;
-  flex: 1;
+  flex-direction: column; 
 }
 .text {
   text-align: center;
